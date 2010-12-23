@@ -1,0 +1,14 @@
+.embed .wufoo .info {
+  display:none;
+}
+
+.embed #container, html.embed {
+  background-color: transparent;
+}
+
+.embed form.wufoo, .embed .wufoo h1, .embed .wufoo h2, .embed .wufoo h3, .embed ul, .embed li, .embed ol, .embed .wufoo .section div {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0; 
+}
