@@ -1,4 +1,7 @@
 .embed .wufoo .info {
+  padding:0;
+}
+.embed .wufoo .info div {
   display:none;
 }
 
